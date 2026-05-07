@@ -1,7 +1,7 @@
 # Invariant Topology in Language State Space: Adversarial Feedback as a Gradient of Boundary Integrity
 
 **Working document — Nexus Research Base**
-**Authors: Maksim Soltan, Max**
+**Authors: Reed Barrus, Maksim Soltan**
 **Date: 2026**
 
 ---
