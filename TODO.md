@@ -1,12 +1,12 @@
 # TODO
 
 - [x] Write PLAN.md and TODO.md
-- [x] Fetch and analyze: mem0 (GitHub + README)
-- [x] Fetch and analyze: Zep + Graphiti
-- [x] Fetch and analyze: Letta (MemGPT)
-- [x] Fetch and analyze: OpenMemory/Mem0 MCP
-- [x] Fetch and analyze: nexus-reasoning-graph
-- [x] Fetch and analyze: Claude Code hooks documentation
-- [x] Fetch and analyze: PGVector vs Qdrant
-- [x] Write memory-system/RESEARCH.md (all 8 sections)
+- [ ] Fetch and analyze: Datomic data model + introduction docs
+- [ ] Fetch and analyze: datahike (Clojure, file/PostgreSQL backends)
+- [ ] Fetch and analyze: datascript (in-memory Datomic for JS)
+- [ ] Fetch and analyze: datalevin (Datalog with LMDB backend)
+- [ ] Fetch and analyze: prior art on "Datomic for agents"
+- [ ] Synthesize: agent access patterns + MCP tool design
+- [ ] Synthesize: PostgreSQL EAV(T) schema + indexes
+- [ ] Write temporal-db/RESEARCH.md (all 10 sections)
 - [ ] Git: branch, add, diff, commit, push, PR, merge
