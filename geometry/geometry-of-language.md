@@ -14,13 +14,9 @@ Current language-model evaluation emphasizes output quality, benchmark performan
 
 ## 1. The Unified Thesis
 
-Two framings, offered separately, resolve into one picture.
+The central claim: language is motion through representational state space, where meaningful stability depends on preserving identity-bearing invariants under transformation. Adversarial feedback is not merely an error signal but a gradient-bearing force — perturbation pressure that maps the field and reveals where the boundary of stable identity actually is. The cell/pathogen analogy makes this concrete as adaptive boundary learning under selective permeability.
 
-**Maksim's framing:** Language as regions and trajectories in state space. Invariance conserved across transformations. Topology as the stability structure underlying meaning.
-
-**Max's framing:** Adversarial feedback as gradient mapping. Perturbation pressure shaping the field. The cell/pathogen analogy as adaptive boundary learning.
-
-The synthesis: *A system occupies a region in representational state space. Inputs and transformations perturb that region. Useful cognition depends on preserving certain invariants while allowing lawful deformation. Adversarial pressure is not just "error" but a gradient-bearing signal that reveals where the boundary of stable identity actually is.*
+*A system occupies a region in representational state space. Inputs and transformations perturb that region. Useful cognition depends on preserving certain invariants while allowing lawful deformation. Adversarial pressure is not just "error" but a gradient-bearing signal that reveals where the boundary of stable identity actually is.*
 
 This is not metaphor. It is a structural claim about the organization of language understanding — one that connects topology, invariance, adversarial robustness, memory, and identity under a single geometric frame.
 
